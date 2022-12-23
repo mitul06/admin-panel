@@ -1,0 +1,124 @@
+{
+  "Data": [
+    {
+      "userid": 1,
+      "UserName": "Henry",
+      "EmailId": "Henry@gmail.com",
+      "Address": "Ahmedabad",
+      "PhoneNo": "7867614285",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "2",
+      "UserName": "Androw",
+      "EmailId": "Androw@gmail.com",
+      "Address": "UP",
+      "PhoneNo": "6547236589",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "3",
+      "UserName": "Lucky",
+      "EmailId": "Lucky@gmail.com",
+      "Address": "Raj",
+      "PhoneNo": "7412589635",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "4",
+      "UserName": "Nora",
+      "EmailId": "Nora@gmail.com",
+      "Address": "MP",
+      "PhoneNo": "5874123698",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "5",
+      "UserName": "James",
+      "EmailId": "James@gmail.com",
+      "Address": "Jaipur",
+      "PhoneNo": "4587125326",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "6",
+      "UserName": "Arya",
+      "EmailId": "Arya@gmail.com",
+      "Address": "Gandhinagar",
+      "PhoneNo": "3214587456",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "7",
+      "UserName": "Marvel",
+      "EmailId": "Marvel@gmail.com",
+      "Address": "Shymal",
+      "PhoneNo": "7894514789",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "8",
+      "UserName": "Charlie",
+      "EmailId": "Charlie@gmail.com",
+      "Address": "Bihar",
+      "PhoneNo": "8784125326",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "9",
+      "UserName": "Petter",
+      "EmailId": "Petter@gmail.com",
+      "Address": "Iskon",
+      "PhoneNo": "8541236589",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "10",
+      "UserName": "Tom",
+      "EmailId": "Tom@gmail.com",
+      "Address": "Patan",
+      "PhoneNo": "6587412365",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "11",
+      "UserName": "Anita",
+      "EmailId": "Anita@gmail.com",
+      "Address": "Mumbai",
+      "PhoneNo": "7584963542",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "12",
+      "UserName": "Harry",
+      "EmailId": "Harry@gmail.com",
+      "Address": "Ahmedabad",
+      "PhoneNo": "9874563589",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "13",
+      "UserName": "Mickey",
+      "EmailId": "Mickey@gmail.com",
+      "Address": "Pune",
+      "PhoneNo": "7849321452",
+      "LikeSports": "Yes"
+    },
+    {
+      "userid": "14",
+      "UserName": "Jerry",
+      "EmailId": "Jerry@gmail.com",
+      "Address": "UP",
+      "PhoneNo": "9685741253",
+      "LikeSports": "No"
+    },
+    {
+      "userid": "15",
+      "UserName": "Jack",
+      "EmailId": "Jack@gmail.com",
+      "Address": "Mumbai",
+      "PhoneNo": "7857964242",
+      "LikeSports": "Yes"
+    }
+  ]
+}
